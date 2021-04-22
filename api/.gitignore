@@ -102,5 +102,4 @@ dist
 
 # TernJS port file
 .tern-port
-#api/fsjstd-restapi.db
-client/package-lock.json
+api/fsjstd-restapi.db
